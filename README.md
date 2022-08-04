@@ -1,1 +1,1 @@
-# Profile REST API Project (Django)
+# Profiles REST API
